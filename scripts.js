@@ -14,7 +14,7 @@ const songs = [
     artista: "Miley Cyrus",
     duracion: "3:22",
     imagen: "imagenes/Flowers.jpg",
-    audio: "https://m.media-amazon.com/images/M/MV5BNmE0NDVmNTktYTM1Yy00ZmJlLTlhMmYtODdhYTE1NjRmNzEyXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_.jpg",
+    audio: "música/Flowers.mp3",
   },
   {
     nombre: "Cupid",
