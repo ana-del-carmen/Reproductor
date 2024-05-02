@@ -5,7 +5,7 @@ const songs = [
     album: "Solstis",
     artista: "León Larregui",
     duracion: "4:10",
-    imagen: "imagenes/brillas.jpg",
+    imagen: "https://i.scdn.co/image/ab67616d0000b273833110ebd5e6cdf55d5ec0e8",
     audio: "música/brillas.mp3",
   },
   {
