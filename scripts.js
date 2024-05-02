@@ -6,7 +6,7 @@ const songs = [
     artista: "León Larregui",
     duracion: "4:10",
     imagen: "https://i.scdn.co/image/ab67616d0000b273833110ebd5e6cdf55d5ec0e8",
-    audio: "https://youtu.be/Mcj75l2gJcY?si=nAEK8Z9kKSC6QVHB",
+    audio: "música/Brillas.mp3",
   },
   {
     nombre: "Flowers",
