@@ -69,7 +69,7 @@ const songs = [
     album: "Clover",
     artista: "OR3O",
     duracion: "3:54",
-    imagen: "https://cdns-images.dzcdn.net/images/cover/c1b5e500d4f5aa02402359b0b39df1be/500x500.jpg",
+    imagen: "imagenes/StillDancing.jpg",
     audio: "música/StillDancing.mp3",
   },
   {
