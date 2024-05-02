@@ -13,7 +13,7 @@ const songs = [
     album: "Endless Summer Vacation",
     artista: "Miley Cyrus",
     duracion: "3:22",
-    imagen: "https://m.media-amazon.com/images/M/MV5BNmE0NDVmNTktYTM1Yy00ZmJlLTlhMmYtODdhYTE1NjRmNzEyXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_.jpg",
+    imagen: "imagenes/Flowers.jpg",
     audio: "https://m.media-amazon.com/images/M/MV5BNmE0NDVmNTktYTM1Yy00ZmJlLTlhMmYtODdhYTE1NjRmNzEyXkEyXkFqcGdeQXVyMjAzMjcxNTE@._V1_.jpg",
   },
   {
