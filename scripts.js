@@ -69,7 +69,7 @@ const songs = [
     album: "Clover",
     artista: "OR3O",
     duracion: "3:54",
-    imagen: "imagenes/stillDancing.jpg",
+    imagen: "https://cdns-images.dzcdn.net/images/cover/c1b5e500d4f5aa02402359b0b39df1be/500x500.jpg",
     audio: "música/StillDancing.mp3",
   },
   {
@@ -85,7 +85,7 @@ const songs = [
     album: "Words (Original Album)",
     artista: "F.R.David",
     duracion: "3:24",
-    imagen: "imagenes/Words.jpg",
+    imagen: "https://i.scdn.co/image/ab67616d0000b2734742af6d5c9eae5f7f63ee5e",
     audio: "música/words.mp3",
   },
   {
